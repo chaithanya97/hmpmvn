@@ -1,0 +1,4 @@
+/opt/hmp/src/test/java/hmp/fixture/ServerRule.java
+/opt/hmp/src/test/java/hmp/ServerTest.java
+/opt/hmp/src/test/java/hmp/SanityTest.java
+/opt/hmp/src/test/java/hmp/fixture/ContainerRule.java

@@ -1,0 +1,11 @@
+hmp/resource/SampleSQSDResource.class
+hmp/di/CoreModule.class
+hmp/di/WebContextListener.class
+hmp/resource/BaseSNSResource$1.class
+hmp/resource/AbstractSQSDResource.class
+hmp/resource/BaseResource.class
+hmp/di/WebModule.class
+hmp/resource/HealthResource.class
+hmp/resource/SNSResource.class
+hmp/resource/RootResource.class
+hmp/resource/BaseSNSResource.class
